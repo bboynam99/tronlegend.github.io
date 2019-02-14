@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.0a52c732.chunk.css",
-  "main.js": "/static/js/main.0dbb5f3c.chunk.js",
-  "main.js.map": "/static/js/main.0dbb5f3c.chunk.js.map",
+  "main.js": "/static/js/main.97a1891b.chunk.js",
+  "main.js.map": "/static/js/main.97a1891b.chunk.js.map",
   "static/css/1.f4e9e177.chunk.css": "/static/css/1.f4e9e177.chunk.css",
   "static/js/1.b85dd840.chunk.js": "/static/js/1.b85dd840.chunk.js",
   "static/js/1.b85dd840.chunk.js.map": "/static/js/1.b85dd840.chunk.js.map",
@@ -24,9 +24,9 @@
   "static/media/tailoring-sprite.png": "/static/media/tailoring-sprite.ea6cdcca.png",
   "static/media/engineering-sprite.png": "/static/media/engineering-sprite.847766d5.png",
   "static/media/scroll.png": "/static/media/scroll.8ca7818d.png",
-  "static/css/main.0a52c732.chunk.css.map": "/static/css/main.0a52c732.chunk.css.map",
   "static/css/1.f4e9e177.chunk.css.map": "/static/css/1.f4e9e177.chunk.css.map",
+  "static/css/main.0a52c732.chunk.css.map": "/static/css/main.0a52c732.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.2b2a6212b045b69c4f3c928faaac7d35.js": "/precache-manifest.2b2a6212b045b69c4f3c928faaac7d35.js",
+  "precache-manifest.66e2c484ccbe815dbbe66bc2a6271fd0.js": "/precache-manifest.66e2c484ccbe815dbbe66bc2a6271fd0.js",
   "service-worker.js": "/service-worker.js"
 }
